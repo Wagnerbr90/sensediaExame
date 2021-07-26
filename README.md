@@ -94,6 +94,6 @@ Dica: Copie e cole o conteúdo do arquivo acima no [Swagger Editor](https://edit
 
 ## Seção reservada para que você descreva brevemente como executar o seu projeto
 
-Pode ser algo simples, como executar o arquivo Application.java. Ou talvez tenha alguma dependência como base de dados, por exemplo.
-
-TODO
+Utilizado Spring Tools Suite 4 para desenvolvimento;
+Os testes enviados do Postman estão previamente preenchidos, com base apenas nos testes simples para gerar as saídas solicitadas, conforme modelo Swagger;
+Qualquer dúvida estou à disposição.
